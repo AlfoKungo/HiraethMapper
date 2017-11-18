@@ -8,15 +8,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value0>
 			<value1>
 				<position>
@@ -24,14 +16,6 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value1>
 			<value2>
@@ -40,15 +24,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value2>
 			<value3>
 				<position>
@@ -56,15 +32,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value3>
 			<value4>
 				<position>
@@ -72,15 +40,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value4>
 			<value5>
 				<position>
@@ -88,15 +48,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value5>
 			<value6>
 				<position>
@@ -104,14 +56,6 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value6>
 			<value7>
@@ -120,15 +64,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value7>
 			<value8>
 				<position>
@@ -136,15 +72,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value8>
 			<value9>
 				<position>
@@ -152,15 +80,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value9>
 			<value10>
 				<position>
@@ -168,15 +88,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value10>
 			<value11>
 				<position>
@@ -184,14 +96,6 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value11>
 			<value12>
@@ -200,15 +104,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value12>
 			<value13>
 				<position>
@@ -216,14 +112,6 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value13>
 			<value14>
@@ -232,15 +120,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value14>
 			<value15>
 				<position>
@@ -248,14 +128,6 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value15>
 			<value16>
@@ -264,15 +136,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value16>
 			<value17>
 				<position>
@@ -280,15 +144,7 @@
 					<y>-350</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value17>
 			<value18>
 				<position>
@@ -296,15 +152,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value18>
 			<value19>
 				<position>
@@ -312,15 +160,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value19>
 			<value20>
 				<position>
@@ -328,15 +168,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value20>
 			<value21>
 				<position>
@@ -344,15 +176,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value21>
 			<value22>
 				<position>
@@ -360,15 +184,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value22>
 			<value23>
 				<position>
@@ -376,15 +192,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value23>
 			<value24>
 				<position>
@@ -392,15 +200,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value24>
 			<value25>
 				<position>
@@ -408,15 +208,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value25>
 			<value26>
 				<position>
@@ -424,15 +216,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value26>
 			<value27>
 				<position>
@@ -440,15 +224,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value27>
 			<value28>
 				<position>
@@ -456,15 +232,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value28>
 			<value29>
 				<position>
@@ -472,15 +240,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value29>
 			<value30>
 				<position>
@@ -488,15 +248,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value30>
 			<value31>
 				<position>
@@ -504,15 +256,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value31>
 			<value32>
 				<position>
@@ -520,15 +264,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value32>
 			<value33>
 				<position>
@@ -536,15 +272,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value33>
 			<value34>
 				<position>
@@ -552,15 +280,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value34>
 			<value35>
 				<position>
@@ -568,15 +288,7 @@
 					<y>-291</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value35>
 			<value36>
 				<position>
@@ -584,15 +296,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value36>
 			<value37>
 				<position>
@@ -600,15 +304,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value37>
 			<value38>
 				<position>
@@ -616,15 +312,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value38>
 			<value39>
 				<position>
@@ -632,15 +320,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value39>
 			<value40>
 				<position>
@@ -648,15 +328,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value40>
 			<value41>
 				<position>
@@ -664,14 +336,6 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value41>
 			<value42>
@@ -680,15 +344,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value42>
 			<value43>
 				<position>
@@ -696,15 +352,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value43>
 			<value44>
 				<position>
@@ -712,15 +360,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value44>
 			<value45>
 				<position>
@@ -728,15 +368,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value45>
 			<value46>
 				<position>
@@ -744,15 +376,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value46>
 			<value47>
 				<position>
@@ -760,15 +384,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value47>
 			<value48>
 				<position>
@@ -776,14 +392,6 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value48>
 			<value49>
@@ -792,15 +400,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value49>
 			<value50>
 				<position>
@@ -808,14 +408,6 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value50>
 			<value51>
@@ -824,15 +416,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value51>
 			<value52>
 				<position>
@@ -840,15 +424,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value52>
 			<value53>
 				<position>
@@ -856,15 +432,7 @@
 					<y>-232</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value53>
 			<value54>
 				<position>
@@ -872,14 +440,6 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value54>
 			<value55>
@@ -888,15 +448,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value55>
 			<value56>
 				<position>
@@ -904,15 +456,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value56>
 			<value57>
 				<position>
@@ -920,15 +464,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value57>
 			<value58>
 				<position>
@@ -936,15 +472,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value58>
 			<value59>
 				<position>
@@ -952,15 +480,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value59>
 			<value60>
 				<position>
@@ -968,15 +488,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value60>
 			<value61>
 				<position>
@@ -984,15 +496,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value61>
 			<value62>
 				<position>
@@ -1000,15 +504,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value62>
 			<value63>
 				<position>
@@ -1016,15 +512,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value63>
 			<value64>
 				<position>
@@ -1032,15 +520,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value64>
 			<value65>
 				<position>
@@ -1048,15 +528,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value65>
 			<value66>
 				<position>
@@ -1064,14 +536,6 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value66>
 			<value67>
@@ -1080,15 +544,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value67>
 			<value68>
 				<position>
@@ -1096,14 +552,6 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value68>
 			<value69>
@@ -1112,15 +560,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value69>
 			<value70>
 				<position>
@@ -1128,14 +568,6 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value70>
 			<value71>
@@ -1144,15 +576,7 @@
 					<y>-173</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value71>
 			<value72>
 				<position>
@@ -1160,15 +584,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value72>
 			<value73>
 				<position>
@@ -1176,14 +592,6 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value73>
 			<value74>
@@ -1192,15 +600,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value74>
 			<value75>
 				<position>
@@ -1208,15 +608,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value75>
 			<value76>
 				<position>
@@ -1224,14 +616,6 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value76>
 			<value77>
@@ -1240,15 +624,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value77>
 			<value78>
 				<position>
@@ -1256,14 +632,6 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value78>
 			<value79>
@@ -1272,15 +640,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value79>
 			<value80>
 				<position>
@@ -1288,15 +648,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value80>
 			<value81>
 				<position>
@@ -1304,15 +656,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value81>
 			<value82>
 				<position>
@@ -1320,15 +664,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value82>
 			<value83>
 				<position>
@@ -1336,15 +672,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value83>
 			<value84>
 				<position>
@@ -1352,14 +680,6 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value84>
 			<value85>
@@ -1368,15 +688,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value85>
 			<value86>
 				<position>
@@ -1384,15 +696,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value86>
 			<value87>
 				<position>
@@ -1400,15 +704,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value87>
 			<value88>
 				<position>
@@ -1416,14 +712,6 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value88>
 			<value89>
@@ -1432,15 +720,7 @@
 					<y>-114</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value89>
 			<value90>
 				<position>
@@ -1448,15 +728,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value90>
 			<value91>
 				<position>
@@ -1464,15 +736,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value91>
 			<value92>
 				<position>
@@ -1480,15 +744,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value92>
 			<value93>
 				<position>
@@ -1496,15 +752,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value93>
 			<value94>
 				<position>
@@ -1512,15 +760,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value94>
 			<value95>
 				<position>
@@ -1528,15 +768,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value95>
 			<value96>
 				<position>
@@ -1544,15 +776,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value96>
 			<value97>
 				<position>
@@ -1560,15 +784,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value97>
 			<value98>
 				<position>
@@ -1576,15 +792,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value98>
 			<value99>
 				<position>
@@ -1592,15 +800,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value99>
 			<value100>
 				<position>
@@ -1608,15 +808,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value100>
 			<value101>
 				<position>
@@ -1624,15 +816,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>274</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>3</type>
 			</value101>
 			<value102>
 				<position>
@@ -1640,15 +824,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value102>
 			<value103>
 				<position>
@@ -1656,15 +832,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>365</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>4</type>
 			</value103>
 			<value104>
 				<position>
@@ -1672,14 +840,6 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>1</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
 				<type>0</type>
 			</value104>
 			<value105>
@@ -1688,15 +848,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>456</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>5</type>
 			</value105>
 			<value106>
 				<position>
@@ -1704,15 +856,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>92</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>1</type>
 			</value106>
 			<value107>
 				<position>
@@ -1720,15 +864,7 @@
 					<y>-55</y>
 				</position>
 				<scale>1</scale>
-				<uv_pos>
-					<x>183</x>
-					<y>268</y>
-				</uv_pos>
-				<uv_size>
-					<x>90</x>
-					<y>59</y>
-				</uv_size>
-				<type>0</type>
+				<type>2</type>
 			</value107>
 		</Tiles>
 		<FootHolds size="dynamic">
@@ -1863,7 +999,7 @@
 				</position>
 			</value1>
 		</Summons>
-		<TileTexture>1</TileTexture>
+		<TileTexture>0</TileTexture>
 	</value0>
 </cereal>
 

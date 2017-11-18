@@ -20,11 +20,11 @@ void serialize_map_data()
 		map_data[0].Portals.push_back(PortalData{ vec2{ float(i * 200), 0 }, 1 });
 	for (int y = -450; y < -100; y += 59)
 		for (int x = -800; x < 800; x += 89)
-			map_data[0].Tiles.push_back(TileData{ vec2{ float(x), float(y) }, 1.0f, vec2{ float(1 + (rand() % 6) * 91), 268 }, vec2{ 90, 59 }, 0 });
-	map_data[0].Tiles.push_back(TileData{ vec2{ -90, 0 }, 1.0f, vec2{ 1, 268 }, vec2{ 90, 59 }, 0 });
-	map_data[0].Tiles.push_back(TileData{ vec2{ 0, 0 }, 1.0f, vec2{ 1, 268 }, vec2{ 90, 59 }, 0 });
-	map_data[0].Tiles.push_back(TileData{ vec2{ -190, 0 }, 1.0f, vec2{ 1, 268 }, vec2{ 90, 59 }, 0 });
-	map_data[0].Tiles.push_back(TileData{ vec2{ 0, 0 }, 1.0f, vec2{ 0, 0 }, vec2{ 621, 328 }, 0 });
+			map_data[0].Tiles.push_back(TileData{ vec2{ float(x), float(y) }, 1.0f, unsigned int(rand() % 6)});
+	map_data[0].Tiles.push_back(TileData{ vec2{ -90, 0 }, 1.0f, 0 });
+	map_data[0].Tiles.push_back(TileData{ vec2{ 0, 0 }, 1.0f, 0 });
+	map_data[0].Tiles.push_back(TileData{ vec2{ -190, 0 }, 1.0f, 0 });
+	//map_data[0].Tiles.push_back(TileData{ vec2{ 0, 0 }, 1.0f, vec2{ 0, 0 }, vec2{ 621, 328 }, 0 });
 	map_data[0].FootHolds.push_back(HorizontalFootHold(vec2{ -800, -100 }, vec2{ 800, -100 }));
 	//map_data[0].m_FootHolds.push_back(HorizontalFootHold(vec2(-800, 0), vec2(800,-200)));
 	map_data[0].FootHolds.push_back(HorizontalFootHold(vec2{ 800, -150 }, vec2{ 1000, -150 }));
@@ -40,7 +40,8 @@ void serialize_map_data()
 		map_data[1].Portals.push_back(PortalData{ vec2{ float((i * (-200)) - 200), 0 }, 0 });
 	for (int y = -350; y < 0; y += 59)
 		for (int x = -1000; x < 600; x += 89)
-			map_data[1].Tiles.push_back(TileData{ vec2{ float(x), float(y) }, 1.0f, vec2{ 1 + float((rand() % 6) * 91), 268 },{ 90, 59 }, 0 });
+			//map_data[1].Tiles.push_back(TileData{ vec2{ float(x), float(y) }, 1.0f, vec2{ 1 + float((rand() % 6) * 91), 268 },{ 90, 59 }, 0 });
+			map_data[1].Tiles.push_back(TileData{ vec2{ float(x), float(y) }, 1.0f, unsigned int(rand() % 6)});
 	map_data[1].FootHolds.push_back(HorizontalFootHold(vec2{ -800, -100 }, vec2{ 800, -100 }));
 	map_data[1].FootHolds.push_back(HorizontalFootHold(vec2{ 800, -150 }, vec2{ 1000, -150 }));
 	map_data[1].FootHolds.push_back(HorizontalFootHold(vec2{ 800, -50 }, vec2{ 1000, -50 }));

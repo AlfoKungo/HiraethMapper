@@ -156,13 +156,14 @@ struct TileData
 {
 	vec2 position;
 	float scale;
-	vec2 uv_pos;
-	vec2 uv_size;
+	//vec2 uv_pos;
+	//vec2 uv_size;
 	unsigned int type;
 	template<class Archive>
 	void serialize(Archive & ar)
 	{
-		ar(CEREAL_NVP(position), CEREAL_NVP(scale), CEREAL_NVP(uv_pos), CEREAL_NVP(uv_size), CEREAL_NVP(type));
+		//ar(CEREAL_NVP(position), CEREAL_NVP(scale), CEREAL_NVP(uv_pos), CEREAL_NVP(uv_size), CEREAL_NVP(type));
+		ar(CEREAL_NVP(position), CEREAL_NVP(scale), CEREAL_NVP(type));
 	}
 };
 struct FootHoldData
@@ -220,7 +221,7 @@ struct MapData
 	std::vector<FootHoldData> FootHolds;
 	std::vector<PortalData> Portals;
 	std::vector<Summon> Summons;
-	int TileTexture = 1;
+	int TileTexture = 0;
 private:
 	MapData() = default;
 	friend class cereal::access;
